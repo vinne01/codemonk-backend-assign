@@ -225,8 +225,4 @@ Use the following steps to test your API using Postman or any REST client.
 * All words are tokenized and stored in **lowercase**
 * Only top 10 matched paragraphs are returned per word
 
-```
 
----
-
-```
