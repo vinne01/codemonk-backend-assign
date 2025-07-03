@@ -27,23 +27,11 @@ A RESTful API that allows users to register, login, and submit multi-paragraph t
 
 ## ⚙️ Setup Instructions
 
-### 1. 📦 Clone the repository
-
-
-git clone <your-repo-url>
-cd <project-folder>
-## ⚙️ Setup Instructions
-
-### 🐍 Create virtual environment & install dependencies
-
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
 
 
 
 
-## ✅ Paste This into Your `README.md` File:
+
 
 
 
@@ -241,12 +229,4 @@ Use the following steps to test your API using Postman or any REST client.
 
 ---
 
-Bhai ye **completely formatted, GitHub-ready** README code hai.
-
-Agar chaho to:
-- ✅ `requirements.txt` bhi generate kara dunga
-- ✅ PostgreSQL setup version bhi de sakta hoon
-- ✅ Swagger docs ya Postman collection bhi bana ke de sakta hoon
-
-Batao kya chahiye bhai 💪
 ```
